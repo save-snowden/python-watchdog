@@ -1,10 +1,9 @@
-#IT18211160 SOS_2_Assignment
 #This Program will capture the events hapenning in a selected location and log the details in to a selected file
 
 '''
 In this code the log file is created inside te users documents. You can save the log file in secured location and you just have to change the file location 
 
-/home/chamod_wijetunga/Documents/log.txt  --> Code Location
+/home/USER/Documents/log.txt  --> Code Location
 
 '''
 import getpass #To display the username
